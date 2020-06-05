@@ -28,4 +28,4 @@
 
 
 ## Part 3 - Submitting assignment
-* Upon completion, submit a pull request for **your assignment** _to_ **curriculeon assignment**.
+* Upon completion, submit a pull request from **your repository** _to_ **this remote repository**.

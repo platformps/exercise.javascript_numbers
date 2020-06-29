@@ -1,4 +1,4 @@
-# Printing Shapes
+# Numbers
 
 * **Objective** - To create a shape-printer using `console.log`.
 * **Purpose** - To establish familiarity with basic Javascript.
